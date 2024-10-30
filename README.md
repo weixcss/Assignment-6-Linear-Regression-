@@ -19,7 +19,7 @@ When the "Generate" button is clicked, the following should be displayed:
 2. **Histogram of Slope and Intercept Values**: Generate `S` datasets, compute the slope and intercept for each, and display overlapping histograms. Mark the slope and intercept from the first dataset on the histogram. Show the proportions of slopes and intercepts that are "more extreme" than those in the initial dataset.
 
 ## Instructions
-1. You can find the starter code here.
+1. You can find the starter code in this repository above. Please download it.
 2. **Setting Up Flask**: Already done in the starter code.
 3. **Complete the TODO Sections**: Follow the hints and complete each TODO section in the code.
 4. Just install the requirements and run the code using "python app.py" or "python3 app.py" when you are done with your code. Feel free to use additional libraries according to your understanding and interests.
