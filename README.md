@@ -28,7 +28,8 @@ When the "Generate" button is clicked, the following should be displayed:
    - Analyze how changing these values impacts the scatter plot and the histograms of slopes and intercepts.
 
 6. The output would look something like this:
-<img width="566" alt="Screenshot 2024-10-29 at 3 54 12 PM" src="https://github.com/user-attachments/assets/136796e5-c9be-43ba-8730-4689761c074d">
+![image](https://github.com/user-attachments/assets/c8e3a991-f124-47e4-9d1f-7b39063c739e)
+
 
    
 7. **Create a Short Demo Video (1-2 minutes)**:
