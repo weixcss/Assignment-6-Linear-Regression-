@@ -1,6 +1,10 @@
 # CS506 Assignment 6
 # Linear Regression
 
+## Demonstration
+Watch the video below to see a full demonstration of the LSA Search Engine in action:
+[![Linear Regression](https://img.youtube.com/vi/7VtIVGUVhoc/0.jpg)](https://youtu.be/7VtIVGUVhoc)
+
 In this assignment, you'll explore the impact of changing parameters on linear regression. The goal is to create an interactive webpage to demonstrate how modifying these parameters affects regression results, especially when there is **no actual relationship** between `X` and `Y`. By tweaking these settings, you’ll observe how randomness can influence the slope and intercept in a regression model.
 
 ## Task Overview
